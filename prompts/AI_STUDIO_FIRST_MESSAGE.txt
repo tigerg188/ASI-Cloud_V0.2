@@ -1,0 +1,1 @@
+请先完整阅读项目中的 README.md、docs/ARCHITECTURE_BASELINE.md、docs/ACCEPTANCE_TESTS.md、prompts/AI_STUDIO_MASTER_PROMPT.md。当前任务不是立即重写或扩展 ASI，而是先做环境与代码审计。严格遵守主提示词：React + Node.js 优先，不假设 Python/Docker/持久磁盘，不强制 DAG，不运行未授权第三方代码，不用模拟数据冒充真实执行。首次只输出项目文件识别、AI Studio 实际能力证据、现有功能真伪清单、风险和建议修改文件列表；不要修改代码，等待确认。
